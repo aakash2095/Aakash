@@ -1,0 +1,116 @@
+.head{
+    color: white;
+
+}
+
+
+.header{
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+
+
+.card:hover{
+    transform: scale(1.15s);
+    transition: all 0.3s;
+}
+
+
+
+.suggested:hover{
+    transform: scale(1.15s);
+    transition: all0.3s;
+}
+
+.suggested{
+    text-align: center;
+    justify-content: center;
+    color: white;
+    margin-top: 10px;
+}
+
+
+/* form */
+
+.container{
+    width: 400px;
+    border: 3px solid black;
+    margin-top: 100px;
+    box-shadow: 2px black;
+ }
+
+
+ #text{
+    color: white;
+    margin-left: 70%;
+ }
+
+
+
+ .txt{
+    color: white;
+    align-items: center;
+     justify-content: center;
+     margin-left: 20px;
+text-decoration: none;
+margin-top: 60px;
+margin-bottom: 60px;
+     
+ }
+
+
+.card:hover{
+    transform: scale(1.15);
+
+}
+.card{
+    transition: all 0.3s;
+}
+
+
+video{
+    position: relative;
+    width: auto;
+    height: 100%;
+}
+
+#exampleInputEmail1{
+           width: 17em;
+           height: 30px;
+}
+
+#exampleInputPassword1{
+    width: 17em;
+    height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
